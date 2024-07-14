@@ -47,7 +47,7 @@ metadata:
 spec:
   ingressClassName: alb
   rules:
-  - host: "app1.shravan.cloud" # ALB Rule
+  - host: "app1.daws78s.online" # ALB Rule
     http:
       paths:
       - pathType: Prefix
